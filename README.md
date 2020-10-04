@@ -1,2 +1,2 @@
 # Piupiuwer - ReactJS
-## Criado pro Marcelo Kentaro Funagoshi
+## Criado por Marcelo Kentaro Funagoshi
